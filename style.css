@@ -1,0 +1,47 @@
+/*#div1
+{
+	float: left;
+	height:600px;
+	width: 20%;
+	/*border: 2px solid green; */
+
+
+/*}
+#div2
+{
+
+	width: 54%;
+	height: 600px;
+	border: 2px solid red; 
+	float : left;
+	margin-left: 5%;
+	
+}
+#div3
+{
+	width: 20%;
+	/*height: 600px;*/
+	/*border: 2px dotted blue;
+	float:right;*/
+/*}*/
+.boxModel
+{
+	display: inline-block;
+	border: solid 2px black;
+	vertical-align: top;
+}
+h2
+{	
+	
+	/*border: 2px solid black;*/
+
+}
+h1
+{
+	background-color: yellow;
+	/*border: 2px solid black;*/
+}
+ul
+{
+	list-style-type: none;
+}
